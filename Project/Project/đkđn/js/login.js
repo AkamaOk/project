@@ -26,7 +26,7 @@ loginForm.addEventListener("submit", (event) => {
       console.log(response);
 
       ///// đi vào trang chủ
-      window.location.href = 'index.html'
+      window.location.href = '/wEb/web.html'
     }
     catch (err) {
       // alert("Err")
